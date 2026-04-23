@@ -6,8 +6,7 @@ A professional, full-stack invoice management solution built for seamless busine
 
 ##  Project Links
 * **GitHub Repository:** https://github.com/viviandev0/Invoice-Management-App/
-* **Live Demo:** 
-* **Figma Design:** https://www.figma.com/make/fnXdfGByGUfy5x7Jtu9Cgl/Build-Invoice-Management-App?t=oLLKWJHsUi3ut6hn-1
+* **Live Demo:** https://invoice-management-app-gamma.vercel.app/
 
 ---
 
